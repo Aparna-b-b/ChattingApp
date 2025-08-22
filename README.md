@@ -34,7 +34,7 @@ IDE such as IntelliJ IDEA, Eclipse, or the ability to compile and run Java via c
 
 ### Screenshots
 
-![Chat Window](README/screenshot.png)
+![Chat Window](README/screenshot./Screenshot 2025-08-23 000324.png)
 
 ### Usage
 
